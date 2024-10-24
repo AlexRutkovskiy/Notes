@@ -1,7 +1,3 @@
 export default function Home() {
-  return (
-    <div>
-      Init project
-    </div>
-  );
+  return <div>Init project</div>;
 }
